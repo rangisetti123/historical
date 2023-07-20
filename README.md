@@ -48,11 +48,11 @@
     <body style="background-color: rgb(236, 85, 69);">
     <header>
     <div class="logo">
-    <img  src="historical places.png" alt=" " width="125"/></br>
+    <img  src="./images/historical places.png" alt=" " width="125"/></br>
        </div>
        <h1 align="center">HISTORICAL PLACES</h1>
     </header>
-    <img src="Historical.jpg" width="1500" height="300"></br>
+    <img src="./images/Historical.jpg" width="1500" height="300"></br>
     </br>
     </br>
     <p>The many temples, forts, palaces and monuments in the country make up the historical places of India.
@@ -67,7 +67,7 @@
     <main>
     <section class="flex-container">
     <div>
-    <img src="tajmahal.jpg"  width="400" height="300"/></br>
+    <img src="./images/tajmahal.jpg"  width="400" height="300"/></br>
     <ul>
     <li><b><u>TAJMAHAL</u></b></li>
     <li>It was built by Mughal Emperor Shah Jahan</li>
@@ -75,13 +75,13 @@
     </ul>
     <br><br>
     <br>
-    <img src="charminar.jpg" width="400" height="300"><br>
+    <img src="./images/charminar.jpg" width="400" height="300"><br>
     <li><b><u>CHARMINAR</u></b></li>
     <li>The Charminar is a monument and mosque in Hyderabad, India. </li>
     <li>The structure was built in 1591AD</li>
     <li>It was built by Muhammad Quli Qutb Shahi </li>
     </ul>
-    <img src="redfort .jpg"  width="400" height="200" /></br>
+    <img src="./images/redfort .jpg"  width="400" height="200" /></br>
     <ul>
     <li><b><u>RED FORT</u></b></li>
     <li>Red Fort, also called Lal Qalʿah, also spelled Lal Kila or Lal Qila, Mughal fort in Old Delhi, India. </li>
@@ -89,7 +89,7 @@
     </ul>
     <br><br>
     <br>
-    <img src="janthar mantar.jpg"  width="400" height="300"/>
+    <img src="./images/janthar mantar.jpg"  width="400" height="300"/>
     <ul>
     <li><b><u>JANTAR MANTAR</u></b></li>
     <li>The Jantar Mantar is a form of architecture built in 1724 by Maharaja Jai Singh II.</li>
